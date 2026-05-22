@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/LG/Desktop/pngtuber/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -isystem C:/SFML/SFML-2.6.1/include -g -std=gnu++17 -o CMakeFiles\\PngTuberApp.dir\\main.cpp.obj -c C:\\Users\\LG\\Desktop\\pngtuber\\main.cpp",
+  "file": "C:\\Users\\LG\\Desktop\\pngtuber\\main.cpp",
+  "output": "CMakeFiles\\PngTuberApp.dir\\main.cpp.obj"
+}
+]

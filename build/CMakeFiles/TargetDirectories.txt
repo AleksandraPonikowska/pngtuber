@@ -1,0 +1,3 @@
+C:/Users/LG/Desktop/pngtuber/build/CMakeFiles/PngTuberApp.dir
+C:/Users/LG/Desktop/pngtuber/build/CMakeFiles/edit_cache.dir
+C:/Users/LG/Desktop/pngtuber/build/CMakeFiles/rebuild_cache.dir
