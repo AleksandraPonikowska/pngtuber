@@ -7,7 +7,7 @@ psd = PSDImage.open('file.psd')
 # TODO: maybe use them as groups?
 # TODO: also, change names to englihs...
 
-look_for = ["r","l","biurko","p2","l2","usta2","usta1","oczy2","oczy1","cialo"]
+look_for = ["r","l","biurko","p2","l2","mouth_open","mouth_closed","oczy2","oczy1","body"]
 
 for layer in psd:
 
@@ -17,7 +17,7 @@ for layer in psd:
 
         if layer_name in look_for:
             rendered = layer.composite()
-            rendered.save(f"assets/{layer.name}.png")
+            rendered.save(f"build/assets/{layer.name}.png")
             look_for.remove(layer_name)
 
 print(f"Couldn't find {look_for}")
