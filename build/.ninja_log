@@ -1,17 +1,11 @@
 # ninja log v5
-1146	1352	8011866985022327	PngTuberApp.exe	d06f811d3c5213aa
-8	1145	8011866983058742	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
-31	1015	8011867194920151	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
-1017	1222	8011867196886900	PngTuberApp.exe	d06f811d3c5213aa
-9	1076	8011868018616273	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
-1077	1271	8011868020492476	PngTuberApp.exe	d06f811d3c5213aa
-7	1043	8011868380091724	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
-1044	1234	8011868381898951	PngTuberApp.exe	d06f811d3c5213aa
-7	1107	8011869646171199	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
-1109	1325	8011869648243435	PngTuberApp.exe	d06f811d3c5213aa
-8	1044	8011870888211286	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
-1045	1253	8011870890222224	PngTuberApp.exe	d06f811d3c5213aa
-9	1136	8011871873992967	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
-1137	1344	8011871875963359	PngTuberApp.exe	d06f811d3c5213aa
-7	1521	8011895849495549	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
 1522	2009	8011895854330608	PngTuberApp.exe	d06f811d3c5213aa
+7	1521	8011895849495549	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
+9	1759	8012298568714354	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
+1759	2840	8012298579536765	PngTuberApp.exe	d06f811d3c5213aa
+7	1330	8012299175929631	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
+1331	1571	8012299178278061	PngTuberApp.exe	d06f811d3c5213aa
+9	1368	8012299308925679	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
+1369	1648	8012299311662780	PngTuberApp.exe	d06f811d3c5213aa
+8	1260	8012300112773380	CMakeFiles/PngTuberApp.dir/main.cpp.obj	6b22b2b0b6fd5eae
+1262	1475	8012300114828649	PngTuberApp.exe	d06f811d3c5213aa
